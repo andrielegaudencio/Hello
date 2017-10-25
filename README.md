@@ -1,3 +1,3 @@
 # Iniciando no GitHub
-Repositório para agenda academica
-oi Mundo
+Repositório para Agenda Acadêmica
+Teste local
